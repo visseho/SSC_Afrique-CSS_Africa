@@ -1,0 +1,126 @@
+---
+title: "Formation et recherche continues en Sciences sociales computationnelles"
+subtitle: "Pour les chercheur.es Africains"
+author: "Visseho Adjiwanou, PhD."
+date: '`r format(Sys.time(), "%d %B %Y")`'
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+geometry: margin=2.54cm
+fontsize: 12pt
+#bibliography: /Users/visseho/Documents/Documents - MacBook Pro/RESEARCH/Methodes_quantitatives.bib
+header-includes:
+- \newcommand{\bcenter}{\begin{center}}
+- \newcommand{\ecenter}{\end{center}}
+- \usepackage{mdframed}
+- \newcommand{\bmdframed}{\begin{mdframed}}
+- \newcommand{\emdframed}{\end{mdframed}}
+- \usepackage{lscape}
+- \newcommand{\blandscape}{\begin{landscape}}
+- \newcommand{\elandscape}{\end{landscape}}
+---
+
+
+# PLan de présentation
+
+1. Description
+2. Objectifs
+3. Publique cible
+4. Planification
+5. Appel
+6. Équipe
+7. Partenariat
+
+
+# 1. Description
+
+Le paysage de l'analyse quantitative en sciences sociales tel que nous le connaissons a beaucoup changé au cours de ces dernières années avec d'une part, la multitude des données, notamment des données numériques et administratives qui deviennent de plus en plus disponibles, et d'autre part, avec l'intégration de nouvelles méthodes d'analyses issues des sciences computationnelles pour traiter ces données. Ces changements conduisent à une redéfinition de la nature même des recherches que le chercheur en sciences sociales est amené à mener. Ce programme de formation - Méthodes quantitatives et computationnelles en sciences sociales -  ambitionne de vous introduire à ces changements et de vous former à prendre plein contrôle de ces nouvelles méthodes. Il vise à renforcer l'utilisation des données sociales et démographiques, quelle que soit leur nature, à des fins d'analyse explicative. 
+
+Ce programme est structuré en trois parties sur une année entière. La première partie se déroulera de janvier à mai. Durant cette période, les cours se donneront avec des exercices à soumettre à la fin de chaque formation. Les meilleur.es participant.es seront retenu.es pour la deuxième phase qui se déroulera en présentiel dans le mois de juin ou juillet. Enfin, la dernière phase se fera aussi en ligne et aboutira à la publication des résultats sous forme de livre ou d'articles scientifiques. A la différence des programmes de courtes durées, ce programme ambitionne de former des chercheurs du continent à s'attaquer aux problèmes sociaux du continent avec des résultats concrets de publication, de dissémination de résultats.
+
+Ce programme de formation est subdivisé en deux groupe selon langue d'usage du Français ou de l'Anglais. 
+
+<!-- en ligne présente les concepts fondamentaux de la modélisation statistique et traite de leurs problèmes (causalité, mesure, échantillonnage) et de leurs solutions. Elle se poursuit par la présentation des notions de relation entre les variables et de leur évaluation. Je fais un survol rapide de l'analyse descriptive, suivi d'une série de modèles de régression et de leurs extensions. Dans la deuxième partie du cours, je présente de nouveaux type de données disponibles pour les chercheurs en sciences sociales, principalement les données de Twitter et quelques exemples d'analyses pouvant être conduites avec ces données (analyses textuelles, analyses de réseaux).  -->
+
+
+# 2. Objectifs
+
+À la fin de ce programme, le/la participante sera capable de:
+
+1. Maitriser les concepts 
+  - comprendre quels sont les types de données en sociologie et en démographie et les problèmes qui s’y rattachent;
+  - comprendre les problèmes conceptuels et empiriques présents dans de nombreuses études empiriques;
+
+2. Approfondir l'utilisation des méthodes statistiques les plus populaires utilisées en sciences sociales et leurs extensions;
+
+3. Comprendre et utiliser les nouvelles approches d'analyse sur les données numériques en sciences sociales
+  - collecter les données digitales sur plusieurs plateformes numériques;
+  - maitriser les modèles quantitatifs d'analyse de texte;
+  - maitriser les modèles de réseaux
+  - Utilisez R pour l'analyse des données.
+
+4.  Maitriser 
+  - les logiciels R et Python;
+  - et connaitre d'autres outils pratiques (github, )
+
+5. Produire un article scientifique publiable sur des thématiques liés à l'Afrique
+
+
+# 3. Publique cible
+
+Ce programme de recherche s'adresse à tout jeune chercheur.e (pas plus de 5 ans après le doctorat) qui oeuvre dans le milieu académique ou de la recherche en Afrique dans toutes les disciplines des sciences sociales (démographie, Sociologie, Économie, ...) et des sciences (mathématiques, physiques, informatiques, ...) et aux postdoctorant.es. De manière exceptionnelle, il est ouvert aux doctorants en dernière années. Les participant.es doivent résider sur le continent Africain.
+
+# 4. Planification
+
+
+- 10 novembre - 10 décembre : appel à soumission
+- 11 décembre - 30 décembre : Sélection des candidats
+- Janvier : Prise de contact 
+  - Présentation du syllabus
+  - Enquête à l'ère digitale
+- Février : Introduction à R et à Python
+- Mars : Visualisation
+- Avril: Modélisation
+- Mai : Collecte de données digitales
+- Juin : Sélection de 12 candidats et formation en présentiel (choix du pays à déterminer)
+
+  - Semaine 1: Analyse quantitative de texte
+  - Semaine 2: Analyse de réseaux
+  - Au bout de ces deux semaines, les sujets des articles seront retenus
+
+- Juillet : Intelligence artificielle et ces composantes
+- Août: Éthique
+- Septembre - Décembre : Production des articles et publication
+
+Pour chaque mois, deux types de formations sont données:
+
+- Un cours magistral durant toute la journée de 9h à 17h (début du mois)
+- Un séminaire présenté par un chercheur chevronnée dans le domaine (moitié du mois)
+
+
+# 5. Appel à soumission
+
+Pour participer à ce programme, vous devez soumettre :
+
+- Un CV à jour
+- Une lettre de présentation, indiquant vos objectifs
+- Un article publié ou cours
+
+Tout ceci doit être soumis ici(lien google form à mettre )
+
+# 6. Équipe
+
+- Vissého Adjiwanou, Ph.D: Professeur, Université du Québec à l'UQAM (Laboratoire des sciences sociales computationnelles (UQAM)) - Concepteur
+- Autres membres
+  - Emmanuel Olamijuwon
+  - Robert Djogbenou
+
+# 7. Partenariat
+
+Ce programme est sponsorisé par l'Union pour l'Étude de la Population Africaine (UEPA)
+
+- **Autres partenaires**:
+  - Laboratoire des Sciences Sociales Computationnelles (LASSOC - UQAM)
+
+
